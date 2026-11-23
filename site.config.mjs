@@ -15,7 +15,7 @@
 export default {
   site: {
     url: 'https://ridgecove.kevin-c4h.workers.dev', // no trailing slash — confirm after first Cloudflare deploy
-    googleSiteVerification: null, // Search Console HTML-tag "content" value
+    googleSiteVerification: 'neROy4AXLsUIuuCYc3dDw1VC91ejqfHyrhTbTfq633U', // Search Console HTML-tag "content" value
     locale: 'en_US',
     language: 'en-US',
   },
